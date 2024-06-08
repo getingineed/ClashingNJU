@@ -1,0 +1,8 @@
+proxies:
+  - name: "NJU-Innernet"
+    type: http
+    server: 0.tcp.jp.ngrok.io
+    port: 19326
+    username: ""
+    password: ""
+    
